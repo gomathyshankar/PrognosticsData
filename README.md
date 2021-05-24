@@ -1,4 +1,4 @@
-# PrognosticsData
+# Remaining useful life (RUL) - Prognostics Health Management data
 Remaining useful life (RUL) is the amount of time(in hours or cycle) a machine is likely to operate before it requires repair or replacement. Predicting the RUL has the following advantages:
 
 Avoid unplanned downtime.
